@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=athiraaathi&show_icons=true&locale=en" alt="athiraaathi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athiraaathi&" alt="athiraaathi" /></p>
+![Pull Requests Opened](https://img.shields.io/badge/Pull%20Requests-100%2B-brightgreen?logo=github)
+
