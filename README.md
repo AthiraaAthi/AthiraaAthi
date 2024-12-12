@@ -28,4 +28,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athiraaathi&" alt="athiraaathi" /></p>
 ![Pull Requests Opened](https://img.shields.io/badge/Pull%20Requests-100%2B-brightgreen?logo=github)
+![Issues Opened](https://img.shields.io/badge/Issues%20Opened-50%2B-blue?logo=github)
+![Repos Contributed](https://img.shields.io/badge/Repos%20Contributed-30-orange?logo=github)
+![Total Commits](https://img.shields.io/badge/Total%20Commits-1000%2B-green?logo=github)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=athirah&theme=gruvbox)
+## GitHub Achievements 🏆
+- ![Pull Shark](https://img.shields.io/badge/Pull%20Shark-100%2B%20PRs-blue?logo=github)
+- ![Galaxy Brain](https://img.shields.io/badge/Galaxy%20Brain-Community%20Helper-brightgreen?logo=github)
+- ![Arctic Code Vault](https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-blue?logo=github)
 
