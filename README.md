@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athiraaathi&label=Profile%20views&color=0e75b6&style=flat" alt="athiraaathi" /> </p>
 
 
-- 🔭 I’m currently working on [Hospital Management](https://github.com/AthiraaAthi/hospitalManagement_ui.git),[AccountingApp](https://github.com/AthiraaAthi/Accounting_app.git)
+- 🔭 I’m currently working on [Meditation App Ui](https://github.com/AthiraaAthi/meditation_app_Ui.git),[AccountingApp](https://github.com/AthiraaAthi/Accounting_app.git)
 
 - 🌱 I’m currently learning **Flutter Native Ui's and Functionalities**
 
